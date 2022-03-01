@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="FactorialTest" tests="6" skipped="0" failures="0" errors="0" timestamp="2022-03-01T07:36:19" hostname="Nithins-MBP.mshome.net" time="0.026">
+  <properties/>
+  <testcase name="Should_Return3628800_When_FactorialOf10()" classname="FactorialTest" time="0.017"/>
+  <testcase name="Should_Return1307674368000_When_FactorialOf15()" classname="FactorialTest" time="0.002"/>
+  <testcase name="Should_Return720_When_FactorialOf6()" classname="FactorialTest" time="0.001"/>
+  <testcase name="Should_Return1_When_FactorialOf0()" classname="FactorialTest" time="0.002"/>
+  <testcase name="Should_Return1_When_FactorialOf1()" classname="FactorialTest" time="0.001"/>
+  <testcase name="Should_Return0_When_FactorialOf21()" classname="FactorialTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
